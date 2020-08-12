@@ -39,7 +39,7 @@ gem 'cancancan', '~> 3.1'
 gem 'friendly_id', '~> 5.3'
 gem 'redcarpet', '~> 3.5'
 gem 'coderay', '~> 1.1', '>= 1.1.3'
-gem 'binding_of_caller', '~> 0.8.0'
+# gem 'binding_of_caller', '~> 0.8.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
